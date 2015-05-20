@@ -1,4 +1,5 @@
 //evaluating XOR operation
+//(x ^ y) = ~(x & y) & (~x & ~y)
 
 #include <stdio.h>
 
